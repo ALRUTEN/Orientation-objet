@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AutoBoat</string>
+    <string-array name="Vehicule">
+        <item>Selectionner</item>
+        <item>Voiture</item>
+        <item>Bateau</item>
+        <item>Moto</item>
+    </string-array>
+    <string name="marque">Marque</string>
+    <string name="modele">Modèle</string>
+    <string name="km">KM</string>
+    <string name="heure">Heure</string>
+
+    <string name="button">ENVOYER</string>
+
+</resources>
